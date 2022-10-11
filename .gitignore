@@ -1,2 +1,9 @@
 system.log
+*.log
+?
+#ignoramos carpeta añadiendo /
+carpeta/
+a[bv]ogado[0-9]
+#Directorios anidados
+
 
